@@ -104,7 +104,12 @@ footer {
     clear: both;
   }
   
-
+  @media all and (max-width:500px) {
+    .my-column {
+        width: 100%;
+      }
+ }
+ 
 
 /* end positioning styles */
 
